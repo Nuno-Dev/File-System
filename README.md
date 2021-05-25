@@ -1,5 +1,5 @@
 # File-System
-A program to manage a file system
+A program to manage a mockup file system
 
 Welcome!
 
